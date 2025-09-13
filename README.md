@@ -1,6 +1,8 @@
 <h1 align="center">Saludos, soy Sharlok Alcazar 👋</h1>
 <p align="center">
   Soy una desarrolladora de software con pasión por crear soluciones innovadoras y eficientes. Me especializo en el desarrollo back-end y front-end, y disfruto resolviendo problemas complejos.
+  <br>
+  Dominio del inglés: B2
 </p>
 
 ---
@@ -23,4 +25,4 @@
 
 ### 📫 ¿Cómo contactarme?
 - **Correo: Imsharlok@gmail.com**
-- **Linkedln: Sharlok Maia Alcazar Gutierrez**
+- **LinkedIn: Sharlok Maia Alcazar Gutierrez**

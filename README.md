@@ -35,4 +35,4 @@
 
 ### 📫 ¿Cómo contactarme?
 - **Correo: Imsharlok@gmail.com**
-- **LinkedIn: Sharlok Maia Alcazar Gutierrez**
+- **LinkedIn: [Sharlok Maia Alcazar Gutierrez](https://www.linkedin.com/in/sharlok-maia-alc%C3%A1zar-guti%C3%A9rrez-91940a384/)**
